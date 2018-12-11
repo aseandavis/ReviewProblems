@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<HCM-CALC Facility="Basic Freeway Segment">
+  <PROJECT>
+    <AnalysisModule>FreewayBasicSegment</AnalysisModule>
+    <AnalysisMode>HCM2016</AnalysisMode>
+    <ModuleVersionDate>1/21/2017</ModuleVersionDate>
+    <FileName>C:\Users\aseandavis\Documents\SWashHW1\AD_Basic2.xfb</FileName>
+    <Analyst />
+    <Date>8/28/2017 9:17:59 AM</Date>
+    <Agency />
+    <Comment />
+  </PROJECT>
+  <SegmentInfo>
+    <RoadwayName />
+    <From />
+    <To />
+    <AnalysisDirection />
+    <Location />
+    <AnalysisPeriod>AM Peak</AnalysisPeriod>
+  </SegmentInfo>
+  <Mainline>
+    <NumberOfLanes_Thru>4</NumberOfLanes_Thru>
+    <Dfactor>0.5</Dfactor>
+    <Kfactor>0.1</Kfactor>
+    <EnteringDemandVeh>5000</EnteringDemandVeh>
+    <AdjustedDemand>5000</AdjustedDemand>
+    <DemandVeh>7000</DemandVeh>
+    <PeakHourFactor>0.900</PeakHourFactor>
+    <DriverPopulationFactor>1.000</DriverPopulationFactor>
+    <InterchangeDensity>0.00</InterchangeDensity>
+    <Terrain>Rolling</Terrain>
+    <PctGrade>N/A</PctGrade>
+    <SegLength>N/A</SegLength>
+    <PctTrucks>3.0</PctTrucks>
+    <PctRVs>3.0</PctRVs>
+    <TruckPCE>3.00</TruckPCE>
+    <RvPCE>0.00</RvPCE>
+    <HeavyVehicleFactor>0.893</HeavyVehicleFactor>
+    <FreeFlowSpeedMethod>Estimated</FreeFlowSpeedMethod>
+    <FFS_Estimation_Parameters>
+      <LaneWidth>12</LaneWidth>
+      <LateralClearance>3</LateralClearance>
+      <RampDensityEntryMethod>Direct</RampDensityEntryMethod>
+      <NumRampsUpstream>0</NumRampsUpstream>
+      <NumRampsDownstream>0</NumRampsDownstream>
+      <RampDensity>4.000</RampDensity>
+      <LaneWidthAdjValue>0.0</LaneWidthAdjValue>
+      <LateralClearanceAdjValue>0.6</LateralClearanceAdjValue>
+      <RampDensityAdjValue>10.32</RampDensityAdjValue>
+      <FreeFlowSpeedBase>75.4</FreeFlowSpeedBase>
+      <FreeFlowSpeedEstCalc>64.5</FreeFlowSpeedEstCalc>
+      <FreeFlowSpeedEstRounded>65</FreeFlowSpeedEstRounded>
+    </FFS_Estimation_Parameters>
+    <FreeFlowSpeed>64.5</FreeFlowSpeed>
+    <PostedSpeed>0</PostedSpeed>
+    <FFSpeedAdjFact>0.975</FFSpeedAdjFact>
+    <CapacityAdjFact>0.968</CapacityAdjFact>
+  </Mainline>
+</HCM-CALC>
